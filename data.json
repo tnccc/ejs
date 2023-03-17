@@ -1,0 +1,12 @@
+{
+  "data": {
+    "index": {
+      "title": "TOPページ",
+      "desc": "TOPページです"
+    },
+    "about": {
+      "title": "aboutページ",
+      "desc": "aboutページです"
+    }
+  }
+}
